@@ -1,2 +1,60 @@
-# aes-benchmark-supplement
-Supplementary technical materials for AES Benchmark
+# The Measure of Insight Benchmark - Supplement
+
+This repository provides supplementary technical materials for **“The Measure of Insight: A Benchmark for Evaluating AI Retrieval in Digital Archives”**.
+
+The MoI Benchmark is designed to evaluate full-text retrieval and RAG-based systems in a humanities context along three dimensions:
+
+- **R-Score (Relevance):** graded semantic relevance of passages to scholarly queries.
+- **A-Score (Abductive Potential):** the capacity of passages to generate new questions, challenge assumptions, and support hypothesis formation.
+- **Structural Metrics:** measures of granularity, “relevance caging,” and exploratory support.
+
+> **Note:** This repository contains *illustrative* data, rubrics, and example code. It is not the full benchmark release. Certain resources are in active development and may change without notice.
+
+---
+
+## Repository Contents
+
+- `0_docs`
+  - `moi_overview.md` – Conceptual overview of the benchmark and its evaluation goals.
+  - `queries.md` - Describes eight searches that could potentially serve for evaluation.
+  - `R-A_rubric.md` – Detailed annotation guidelines for R-Score and A-Score (example passages to be added).
+  - `R-A_rubric_quick_reference.md` – A shorter reference rubric for evaluators.
+  - `tasks_and_metrics.md` – Definitions of static, exploratory, and identity-constrained evaluation tasks, and formal definitions of core metrics (nDCG_R, nDCG_A, granularity/AGS).
+
+- `1_code`
+  - `topic_modeling_eccotcp.ipynb` – preparatory notebook that develops metadata and runs topic modeling algorithm for passages.
+  - `eccotcp_vector_model.ipynb` – creates and queries a vector retrieval model for the Ecco-tcp.
+  - `fuzzy_eccotcp_matching.ipynb` – matches eccco-tcp and full ecco volumes.
+  - `ht_search_in_book_simulation.ipynb` – approximates HathiTrust's search-in-book feature.
+  - `extract_psgs_from_fullecco_cluster_csv.ipynb` – creates a directory of files from the exploratory search platform for pooling and deduplication.
+  - `reate_dirs_of_top_tcp_results.ipynb` – creates a directory of files from eccotcp platforms (vector and htsolr) for pooling and deduplication.
+  - `pooling_and_deduplication.ipynb` – prepares top results for evaluation.
+
+- `2_data`
+  - `example_eccotcp_passages` – an illustrative sample of ECCO-TCP passages (i.e. 139 of 150,643 passages).
+  - `eccotcp_psgs_nmf_topics_k80.txt` – topics for ECCO-TCP passages; used to measure the diversity of retrieved results.
+  - `eccotcp_psgs_with_topics.csv` – ECCO-TCP metadata, assigning NMF topics to passages.
+  - `eccotcp_to_fullecco_matching_in_progress.csv` – a spreadsheet matching ECCO-TCP volumes with items in the full ECCO dataset. Fuzzy matching was done to >90% accuracy, and manual correction of unmatched results will continue over the next two months.
+
+- `3_results`
+  - `data` – contains structured results from queries run against three search engines.
+  - `passages` – contains top passages for queries run against three search engines.
+
+- `4_screenshots`
+  - Screenshots illustrating passage-based retrieval, metadata filtering, exploratory workflows, etc.
+
+---
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sosadetz/moi-benchmark-supplement.git
+   cd moi-benchmark-supplement
+
+2. Open the example notebook:
+
+   `jupyter notebook 1_code/example_notebook.ipynb`
+
+3. Note that this repo is merely illustrative, and not all variables are consistently defined, which may cause these notebooks to break for the time being.
