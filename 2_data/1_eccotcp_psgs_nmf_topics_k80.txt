@@ -1,0 +1,240 @@
+Topic 0
+good, life, fortune, pleasure, friend, world, great, person, friends, little, character, time, company, young, friendship, happiness, public, conversation, happy, family
+
+Topic 1
+thy, thee, thine, soul, let, praise, heart, hand, power, glory, blessed, heaven, breast, virtue, fame, spirit, sacred, earth, oh, life
+
+Topic 2
+don, come, good, master, old, let, poor, know, oh, tell, sure, like, devil, em, enter, yes, fellow, exit, little, pray
+
+Topic 3
+married, daughter, anno, james, son, issue, william, heir, alexander, succeeded, died, ibidem, lands, robert, margaret, charter, chart, david, eldest, sons
+
+Topic 4
+sea, north, south, west, east, land, coast, river, winds, wind, rivers, mountains, ocean, leagues, cape, bay, miles, coasts, seas, america
+
+Topic 5
+poetry, poet, genius, language, taste, poem, art, style, poets, music, milton, writers, wit, works, composition, pope, poetical, writer, modern, great
+
+Topic 6
+st, bishop, year, college, durham, knights, chapel, died, thomas, hospital, newcastle, paul, order, george, prior, edward, mary, dean, peter, master
+
+Topic 7
+god, sin, world, divine, heaven, earth, soul, holy, good, glory, unto, grace, mercy, evil, almighty, spirit, eternal, sins, goodness, prayer
+
+Topic 8
+sir, george, harry, gentleman, aside, honor, har, yes, pray, hargrave, enter, servant, walter, geo, knight, exit, baronet, thomas, william, robert
+
+Topic 9
+white, black, tail, color, brown, bird, yellow, feathers, inches, wings, neck, dusky, head, legs, belly, birds, red, coverts, upper, latham
+
+Topic 10
+thou, thee, art, thyself, oh, know, st, heaven, thine, soul, belford, tell, say, come, did, friend, behold, gods, lovelace, unto
+
+Topic 11
+mr, gentleman, pope, burke, sheridan, gentlemen, hastings, street, smith, fox, william, ditto, copies, london, george, friend, thomas, dublin, barry, greville
+
+Topic 12
+price, land, labor, corn, tax, produce, quantity, rent, value, proportion, country, greater, market, years, increase, wheat, farmer, lands, wages, number
+
+Topic 13
+count, marquis, chevalier, countess, adeline, berci, clementina, marchioness, madame, essars, monsieur, paris, sauveur, julia, jeronymo, theodore, mademoiselle, saint, sister, emily
+
+Topic 14
+parliament, commons, house, act, lords, majesty, members, council, crown, vote, peers, session, committee, assembly, party, ministers, treaty, acts, houses, parliaments
+
+Topic 15
+ship, board, ships, shore, sail, boat, wind, anchor, weather, sea, vessel, guns, sails, boats, came, tide, voyage, fleet, got, crew
+
+Topic 16
+blood, vessels, fluid, quantity, stomach, fibers, urine, nerves, fluids, motion, glands, animal, particles, lungs, circulation, matter, heat, action, arteries, muscles
+
+Topic 17
+ha, oh, bell, aside, exit, enter, yes, hardcastle, col, ay, cha, marlow, geo, phil, laugh, har, faith, char, oldcastle, lovibond
+
+Topic 18
+said, replied, cried, answered, asked, told, aforesaid, uncle, words, good, person, hand, arabella, thereof, looked, spoke, added, saying, persons, did
+
+Topic 19
+king, majesty, crown, kings, edward, reign, kingdom, royal, archbishop, court, sent, william, great, james, england, barons, monarch, york, richard, subjects
+
+Topic 20
+feet, mountains, trees, lake, wood, beautiful, stone, mountain, ground, distance, large, hills, rock, stones, road, hill, round, rocks, near, covered
+
+Topic 21
+shall, time, day, come, let, aforesaid, leave, make, act, hope, thereof, place, present, days, till, future, receive, persons, enacted, trustees
+
+Topic 22
+mrs, ma, jervis, bell, felix, betty, barry, jewkes, maria, beaumont, mother, husband, house, darnley, lovick, mama, actress, woffington, selwyn, seymour
+
+Topic 23
+luke, jer, 27, job, 28, 30, 29, heb, 32, 31, genesis, pet, timothy, romans, prove, deuteronomy, 33, isa, 34, exodus
+
+Topic 24
+dear, brother, sister, friend, heart, happy, hope, lucy, think, uncle, emily, know, wish, mamma, dearest, creature, poor, girl, harriet, aunt
+
+Topic 25
+church, dissenters, clergy, bishops, pope, churches, bishop, ministers, ecclesiastical, england, archbishop, communion, holy, rome, assembly, established, episcopal, protestant, reformation, doctrine
+
+Topic 26
+lord, lordship, elmwood, honor, sandford, orville, unto, lords, belmont, noble, grace, ld, cried, treasurer, chancellor, did, majesty, cobham, leicester, rushbrook
+
+Topic 27
+think, say, know, make, did, believe, let, reason, self, thought, tell, ought, way, better, opinion, answer, truth, world, does, true
+
+Topic 28
+miss, woodley, milner, hardcastle, byron, harlowe, courteney, sandford, elmwood, ladies, sister, dorriforth, grandison, marlow, lovelace, young, glanville, cousin, clarissa, gr
+
+Topic 29
+scotland, england, union, scots, commissioners, english, kingdom, treaty, lords, britain, kingdoms, ireland, scottish, article, irish, scotch, united, salt, customs, agreed
+
+Topic 30
+lady, ladyship, young, ladies, jane, married, clementina, daughter, mary, betty, fine, harriet, gentleman, colonel, davers, company, lucy, woman, coach, room
+
+Topic 31
+animals, animal, food, species, birds, kind, fish, like, dog, young, flesh, teeth, wild, size, hair, dogs, eggs, kinds, long, horns
+
+Topic 32
+love, passion, heart, lover, loved, self, beauty, soul, passions, friendship, charms, fair, affection, tender, loves, pleasure, sweet, joy, desire, object
+
+Topic 33
+father, mother, son, child, children, family, brother, daughter, parents, young, sister, boy, fa, years, duty, parent, uncle, born, estate, youth
+
+Topic 34
+heart, death, tears, life, oh, heaven, eyes, moment, soul, grief, fate, sorrow, despair, hand, pity, alas, fear, die, voice, mind
+
+Topic 35
+cure, disease, medicines, patient, diseases, medicine, symptoms, physicians, cases, method, physician, practice, fever, remedies, physic, cured, pain, distemper, patients, case
+
+Topic 36
+queen, duke, majesty, elizabeth, court, mary, hannover, marlborough, electoral, highness, elector, princess, pretender, duchess, succession, whigs, papers, party, ministry, treasurer
+
+Topic 37
+army, enemy, troops, general, battle, march, officers, soldiers, camp, forces, attack, command, thousand, victory, commanded, horse, marched, field, siege, having
+
+Topic 38
+ideas, objects, idea, object, mind, different, imagination, effect, cause, senses, existence, impression, passions, causes, relation, connection, particular, passion, impressions, experience
+
+Topic 39
+law, laws, justice, court, right, equity, case, act, common, statute, judges, authority, ought, person, property, judge, power, punishment, courts, legal
+
+Topic 40
+johnson, boswell, thrale, garrick, goldsmith, literary, joshua, sam, conversation, life, talked, reynolds, langton, dictionary, mentioned, mind, having, friend, shakspeare, lichfield
+
+Topic 41
+author, history, printed, published, book, work, books, written, year, volumes, latin, works, account, learned, years, reader, new, letters, london, octavo
+
+Topic 42
+stage, play, theater, comedy, tragedy, garrick, shakespeare, plays, acted, actor, author, performed, piece, audience, dramatic, actors, public, drury, characters, cibber
+
+Topic 43
+war, peace, treaty, nation, spain, states, europe, nations, britain, allies, arms, enemies, america, alliance, wars, years, terms, powers, state, armies
+
+Topic 44
+rome, roman, emperor, empire, caesar, romans, senate, city, ancient, italy, provinces, constantine, nations, history, barbarians, augustus, lib, reign, gaul, julian
+
+Topic 45
+religion, christian, christianity, religious, christians, faith, worship, principles, protestant, truth, gospel, true, doctrines, evidence, doctrine, divine, miracles, revelation, belief, opinions
+
+Topic 46
+john, william, thomas, robert, richard, bull, james, george, colonel, edward, smith, francis, ralph, jane, nicholas, samuel, sterling, matthew, wife, mar
+
+Topic 47
+homer, verse, achilles, hector, book, eustathius, gods, greeks, troy, ulysses, poet, hero, virgil, agamemnon, jupiter, iliad, poem, patroclus, ajax, trojans
+
+Topic 48
+christ, jesus, gospel, unto, faith, holy, savior, apostles, spirit, miracles, jews, paul, righteousness, resurrection, doctrine, apostle, salvation, christians, disciples, spiritual
+
+Topic 49
+air, earth, heat, sun, cold, atmosphere, bodies, surface, light, lungs, winds, vapors, moon, wind, weather, weight, hot, effects, motion, moisture
+
+Topic 50
+captain, capt, board, colonel, cook, governor, voyage, lieutenant, swan, indians, ralegh, company, spaniards, gentlemen, vessel, officer, mate, officers, came, crew
+
+Topic 51
+charles, grandison, charlotte, byron, lucy, harriet, clementina, selby, emily, bartlett, reeves, hargrave, grandmamma, brother, sister, jeronymo, olivia, greville, beauchamp, aunt
+
+Topic 52
+cecilia, delvile, cried, harrel, belfield, monckton, beverley, arnott, answered, honoria, henrietta, moment, room, robert, mortimer, charlton, morris, wholly, briggs, lyster
+
+Topic 53
+prince, orange, princes, princess, throne, wales, sovereign, james, highness, emperor, court, crown, subjects, royal, son, leonida, aurungzebe, manfred, felicia, great
+
+Topic 54
+fair, muse, vain, fame, sweet, bright, like, eye, soft, breast, song, shade, charms, eyes, pride, youth, round, day, beneath, light
+
+Topic 55
+earl, countess, duke, warwick, devonshire, castle, edward, pembroke, essex, douglas, earls, viscount, mar, george, thomas, pembrook, murray, james, knight, marquess
+
+Topic 56
+men, women, great, like, persons, world, knowledge, wise, mankind, learned, minds, set, learning, people, lives, nations, times, common, thousand, make
+
+Topic 57
+france, french, english, england, spain, treaty, europe, paris, duke, dutch, germany, holland, lewis, spanish, italy, country, allies, revolution, fleet, flanders
+
+Topic 58
+berkeley, editor, mother, monck, old, years, used, amiable, bishop, worthy, poor, young, friend, canterbury, excellent, mr, say, son, replied, gentleman
+
+Topic 59
+trade, commerce, goods, manufactures, colonies, merchants, great, foreign, britain, america, manufacture, company, country, ships, countries, woollen, duties, india, dutch, nations
+
+Topic 60
+water, salt, fish, wine, boil, half, sugar, drink, little, quantity, pound, waters, butter, ounce, cold, oil, small, make, pint, ounces
+
+Topic 61
+sophia, jones, allworthy, darnley, herbert, harriot, western, partridge, blifil, cries, answered, squire, sister, dolly, aunt, young, honor, bellaston, lawson, fitzpatrick
+
+Topic 62
+madam, ladyship, arabella, hope, don, aside, honor, pray, pardon, glanville, lucy, yes, know, servant, countess, replied, croaker, woman, creature, leave
+
+Topic 63
+ye, unto, let, come, praise, song, hear, chorus, wi, hearts, behold, nae, ver, sons, voice, ah, pert, brethren, say, sing
+
+Topic 64
+henry, olivia, caroline, edward, castle, richard, fitzorton, emma, abbey, guise, armine, reign, crowbery, stuart, isabella, roger, william, susan, brother, york
+
+Topic 65
+government, people, power, public, nation, constitution, state, liberty, laws, country, authority, rights, principles, right, national, political, civil, governments, sovereign, revolution
+
+Topic 66
+nature, virtue, human, moral, mankind, natural, reason, vice, society, actions, sense, happiness, principle, principles, knowledge, passions, truth, wisdom, action, state
+
+Topic 67
+ins, character, phalaena, syst, wings, specific, antennae, species, fab, generic, insect, alis, moth, papilio, ent, synonyms, linn, thorax, sp, brown
+
+Topic 68
+man, good, honest, poor, fellow, right, does, wise, honor, knows, makes, old, creature, woman, like, worthy, thinks, bad, hand, sense
+
+Topic 69
+letter, letters, write, wrote, send, received, answer, writing, sent, written, servant, friend, adieu, post, harlowe, lovelace, hope, return, account, copy
+
+Topic 70
+money, pounds, sum, thousand, debt, pay, bank, paid, gold, cent, credit, silver, payment, value, millions, stock, debts, paper, year, 000
+
+Topic 71
+chan, sultan, shaw, delhi, dien, mahummud, omrahs, emperor, malleck, higer, raja, army, vizier, jehan, mirza, agra, year, empire, marched, lahore
+
+Topic 72
+town, city, built, house, castle, houses, river, place, street, bridge, called, miles, county, streets, large, london, inhabitants, near, wall, gate
+
+Topic 73
+celestina, willoughby, thorold, vavasour, montague, horatia, cathcart, elphinstone, castlenorth, molyneux, jessy, moment, hayman, alvestone, felt, fitz, mornay, sister, saw, replied
+
+Topic 74
+island, islands, leagues, land, bay, cape, small, shore, natives, inhabitants, indians, latitude, fathom, coast, saw, trees, point, called, spaniards, lat
+
+Topic 75
+came, went, did, told, day, time, took, house, night, morning, saw, soon, till, began, gave, having, door, knew, room, thought
+
+Topic 76
+woman, wife, women, husband, children, sex, marriage, ladies, young, female, wives, married, marry, husbands, family, child, dress, beauty, parents, old
+
+Topic 77
+says, doctor, devil, author, ralegh, word, gentleman, tells, does, words, lib, adds, called, told, passage, harry, speaking, calls, story, gives
+
+Topic 78
+read, line, book, reading, lines, books, add, note, paper, words, penult, word, point, write, verse, insert, bible, right, end, straight
+
+Topic 79
+body, soul, motion, bodies, head, velocity, force, dead, organs, weight, matter, substance, feet, state, powers, resurrection, center, self, equal, gravity
+

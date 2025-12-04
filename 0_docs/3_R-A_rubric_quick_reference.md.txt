@@ -1,0 +1,73 @@
+MoI Annotation Rubric – Quick Reference
+
+For each passage–query pair, assign:
+
+- R‑Score (0–3): semantic relevance to the query  
+- A‑Score (0–2): abductive potential (“insight value”)
+
+If R=0 → A must be 0.  
+If A>0, add 1–3 sentences answering:
+> “What new question, hypothesis, or conceptual shift does this passage suggest for this query?”
+
+1. R‑Score: Relevance (0–3)
+
+R=0 – Not relevant
+
+- No meaningful connection to the query’s topic.
+- Shared words are accidental or clearly used in a different sense.
+- You would not include this passage in a corpus for the query.
+
+R=1 – Tangential / peripheral
+
+- Some topical overlap, but the passage is not really about the query.
+- Mentions relevant terms or figures only in passing.
+- You might skim it once, but it’s low‑priority evidence.
+
+R=2 – Clearly relevant
+
+- Substantively about the topic named in the query.
+- Develops arguments, examples, or descriptions directly bearing on it.
+- You would include it in a carefully curated reading corpus.
+
+R=3 – Central / exemplary
+
+- Highly central OR canonical for the query.
+- Defines key concepts, offers a classic argument, or is widely cited.
+- One of the first passages you’d use to teach or explain this topic.
+
+
+2. A‑Score: Abductive Potential (0–2)
+
+Always set R first. If R=0, A=0.
+
+A=0 – No abductive value
+
+- Even if relevant, it basically confirms what you already expect.
+- Restates standard positions or adds detail without changing perspective.
+- Does not suggest new questions or hypotheses.
+
+A=1 – Incremental extension
+
+- Relevant and adds a new angle, nuance, or complication.
+- Could inspire a sub‑question or modest refinement of the research design.
+- Example moves:
+  - Brings in an additional dimension (e.g., gender, economy, genre) that enriches but doesn’t overturn the framing.
+  - Introduces a useful analogy that fits comfortably within existing understandings.
+
+A=2 – Reorienting / hypothesis‑generating
+
+- Relevant and productively surprising to a specialist.
+- Suggests a new explanatory framework or unexpected connection that could change how the query is pursued.
+- Example moves:
+  - Reverses or transforms the key concept (e.g. “true liberty is total dependence on God,” contra standard political liberty).
+  - Links the topic to an unexpected domain (e.g. domestic credit manuals as key to national finance), opening a new line of inquiry.
+
+
+3. When A>0 – Required comment
+
+Whenever you assign A=1 or A=2, briefly state:
+
+- What new question does this passage raise?  
+- What hypothesis or conceptual shift does it suggest?
+
+Aim for three sentences.

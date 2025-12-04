@@ -1,0 +1,29 @@
+This document provides a number of example queries that could be used across the three pooled search platforms (i.e. HathiTrust and Osadetz's two search engines). For each query, a brief note explains why it may be a suitable candidate.
+
+1. Sublimity, terror, and aesthetics of nature 
+
+Query = `sublime, sublimity, terror, awe, astonishment, vast, infinite, obscurity, Burke, taste, genius, imagination, ruins, mountains, tempest, thunder, horror, wonder`
+
+NOTE: This query targets 18C aesthetic theory (Addison, Burke, Knox, etc.) but also draws in sermons, travel writing, and scientific texts where “sublime” language appears unexpectedly. It’s ideal for testing abductive potential, since high‑A passages may reframe sublimity in political, religious, or scientific terms rather than in strictly aesthetic treatises.
+
+2. Principles, axioms, intellectual rhetoric
+
+Query = `author authority axiom book comprehensive contain contract curiosity digest discern discover doctrine establish fact fame few foundation general genius grandeur human idea infinite intelligent judgment knowledge law learned magnificent mankind maxim multitude nature notion number opinion order perceive philosophy precept principle read reason reduce refine sentence short simple small splendor study subject sublime supreme system tenet theorem truth universal variety various view volume wonder word work world writer`
+
+NOTE: This query is conceptually focused and cuts across philosophy, theology, natural science, and didactic fiction. It represents the focus of the PI Osadetz's own research. It’s useful for seeing whether systems can surface passages where “principles” or “axioms” are problematized, parodied, or redefined—prime sites for abductive discovery rather than merely straightforward expositions.
+
+3. The Atlantic slave trade and abolitionist discourse
+
+Query = `abolition africa black bodies bondage cargo carry chain chains commerce company country cruelty emancipation export foreign fort freedom humanity import indies liberty merchant middle nation negro negroes negros parliament passage plantation present reason ship skin slave slavery slaves stock sugar trade trader traffick tyranny voyage west`
+
+NOTE: This query tests retrieval on a major historical phenomenon where language spills across genres: parliamentary debates, sermons, travel narratives, economic treatises, and sentimental fiction. The topic is of central concern to various disciplinary fields in eighteenth-century studies.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.

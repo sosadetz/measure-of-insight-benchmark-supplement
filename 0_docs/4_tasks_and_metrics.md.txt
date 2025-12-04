@@ -1,0 +1,52 @@
+This document provides a schematic overview of the metrics and tasks contained in the Measure of Insight Benchmark Suite. All metrics and tasks are defined at the bottom of this document.
+
+**MoI Benchmark Suite Metrics:
+
+1. Static, Per-Query Metrics (One-Shot Retrieval) [NB: No human annotation required]:
+
+A. Relevance (Tier 1) - For 8-10 queries
+- nDCG_R@k  
+- Precision_R@k (for R ≥ 2, k = 50
+ 
+B. Abductive Potential (Tier 1) - For 8-10 queries
+- nDCG_A@k  
+- Precision_A@k (for A ≥ 1, k = 50)
+
+C. Granularity / Diversity (Tier 1) - For 8-10 queries
+(NB: higher-level container = complete volume)
+- GS (granularity score) @k [U_containers / max(1, Rk); U_containers = # containers at R>=2]; Rk = # passages in top k with R >= 2]
+- Report mean GS across queries per system
+- AGS (adjusted granularity score) = nDCG_R × GS (requires good ranking and distributed evidence)
+- Volume diversity
+- Author diversity
+
+D. Conceptual Diversity (Tier 1) - For 8-10 queries
+NB: Based on topic modeling of 150,642 passages in ECCO-TCP and assignment to N clusters
+- #unique clusters among top‑k R ≥ 2 results [I.e. Results have to be relevant]
+- Simple diversity measure, e.g. normalized entropy;
+p_j = proportion of relevant passages in cluster j
+Diversity D = −∑ p_j log p_j / log(#clusters_seen)
+NB: This D is 0 when all relevant items share a cluster, and 1 when they are evenly spread across clusters.
+
+2. Dynamic, Task-Based Metrics (Tier 2) [Separate from main queries]
+
+A. Exploratory Task (Two Iterations):
+- Exploratory Recall_R@k and Recall_A@k across L₁ ∪ L₂.  
+- ΔnDCG_R and ΔnDCG_A (improvement from first to second iteration).  
+- Exploratory diversity from L₁ to L₂ (i.e. Does the user see different relevant results?)
+
+B. Identity‑constrained tasks: [query Q, constraint C (i.e. gender)]
+- For each (Q, C) pair you define:
+- nDCG_R_C@k, Recall_R_C@k  
+- nDCG_A_C@k, Recall_A_C@k
+
+
+
+**Definitions
+nDCG
+Precision@k
+GS
+AGS
+Topic‑based diversity
+Revision - describe Static vs. exploratory vs. identity‑constrained tasks
+Revision - How, in principle, these apply to RAG outputs (citation‑grounded evaluation). --- Add a short subsection “Use with future RAG systems” explaining how the same qrels let you evaluate citation‑grounded answers. 
