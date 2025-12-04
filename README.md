@@ -5,8 +5,14 @@ This repository provides supplementary technical materials for **“The Measure 
 The MoI Benchmark is designed to evaluate full-text retrieval and RAG-based systems in a humanities context along three dimensions:
 
 - **R-Score (Relevance):** graded semantic relevance of passages to scholarly queries.
-- **A-Score (Abductive Potential):** the capacity of passages to generate new questions, challenge assumptions, and support hypothesis formation.
-- **Structural Metrics:** measures of granularity, “relevance caging,” and exploratory support.
+- **A-Score (Abductive Potential):** the capacity of passages to generate new questions, challenge assumptions, and support hypothesis formation, inspired by C. S. Peirce's theory of abductive inference.
+- **Structural Metrics:** measures of granularity, “relevance caging,” and support for exploratory workflows.
+
+This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooling and deduplicating the top results from three different search engines:
+
+- **A HathiTrust-like System:** BM25 ranking, featuring volume-level retrieval and subsequent search-in-books feature, built using the [HathiTrust Catalog Indexer] (https://github.com/hathitrust/hathitrust_catalog_indexer).
+- **Vector retrieval and Rocchio-style feedback:** A simple retrieval tool based on the [Sentence Transformers](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model developed by Nils Reimers and Iryna Gurevych at the Technical University of Darmstadt in Germany.
+- **Passage-level exploratory semantic search:** An elasticsearch platform that I built for the full ECCO dataset (12m passages) with a team at Harvard to illustrate the affordances of granular search and user-directed feedback.
 
 > **Note:** This repository contains *illustrative* data, rubrics, and example code. It is not the full benchmark release. Certain resources are in active development and may change without notice.
 
