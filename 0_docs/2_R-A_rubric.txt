@@ -1,0 +1,243 @@
+MoI Annotation Rubric: R‑Score (Relevance) and A‑Score (Abductive Potential)
+
+1. Overview
+
+For each passage–query pair, you will assign two scores:
+
+1. R‑Score (0–3): How semantically relevant the passage is to the query.  
+2. A‑Score (0–2): The passage’s abductive potential: its capacity to generate new questions, hypotheses, or conceptual shifts for a scholar working on this query.
+
+You should:
+
+- Always assign an R‑Score.  
+- Only assign A>0 when the passage has at least some relevance (R≥1). Off‑topic passages have A=0.  
+- When you assign A>0, you must also answer the following a sentence or two:
+	“What new question, hypothesis, or conceptual shift does this passage suggest for this query?”
+
+2. General workflow
+
+For each passage and query:
+
+1. Read the query carefully.
+   - Note what kind of thing it is asking about: concept, phenomenon, genre, group, etc.
+
+2. Read the passage.
+   - Ignore superficial keyword matches; focus on conceptual content.
+
+3. Assign an R‑Score (0–3).
+   - Use the rubric and examples below.
+
+4. Assign an A‑Score (0–2).
+   - If R=0 → A must be 0.  
+   - If R≥1, decide whether the passage simply fits the existing frame (A=0), incrementally extends it (A=1), or genuinely reorients it (A=2).  
+   - If A>0, write a brief justification answering the question above.
+
+Think of yourself as a scholar designing a reading corpus for this query:  
+- R‑Score: “Would I include this passage? How central is it?”  
+- A‑Score: “Could this passage change how I think about or pursue this question?”
+
+3. R‑Score: Relevance (0–3)
+
+R measures topical and conceptual fit with the query.
+
+A. R = 0 – Not relevant
+
+Definition:
+- The passage is off‑topic or only coincidentally overlaps with the query’s vocabulary.
+- It does not help answer or explore the query in any meaningful way.
+
+Criteria:
+- No substantive discussion of the query’s theme, concept, phenomenon, or group.
+- Any shared words are false friends (e.g., “liberty” used as a ship’s name in a query about political liberty).
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A recipe for preserving fruit that mentions “freeing” jars from air.  
+  → R=0 (irrelevant; “freeing” is not political).
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A sentimental letter about a broken engagement, no economic content.  
+  → R=0.
+
+B. R = 1 – Tangential / peripheral
+
+Definition:
+- The passage has some topical connection but is not directly about the query.
+- It might mention key terms or a related context, but would be low priority in a research corpus.
+
+Criteria:
+- Mentions relevant people, institutions, or concepts in passing, but does not develop them.
+- Relates indirectly to the theme (e.g., describes a setting, an anecdote) without sustained analysis.
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A sermon on charity that briefly contrasts “spiritual liberty” with “civil liberty” in one sentence, then moves on.  
+  → R=1 (touches the theme but not its focus).
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A novel scene where a character complains about “debts” and “bills” as part of characterization, but without broader reflection on credit systems.  
+  → R=1 (contextually related; not conceptually central).
+
+C. R = 2 – Clearly relevant
+
+Definition:
+- The passage is substantively about the query’s topic.
+- It would be included in a carefully assembled reading corpus for this query.
+
+Criteria:
+- Discusses concepts, practices, or debates that the query names.
+- Contains arguments, examples, or descriptions that help a scholar understand the query’s phenomenon.
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A sermon that explicitly defines “liberty,” contrasts civil and religious liberty, and reflects on obedience to rulers.  
+  → R=2 (directly on topic, but not uniquely central).
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: An economic treatise chapter explaining how banknotes circulate, why over‑issue causes panics, and how trust underpins credit.  
+  → R=2.
+
+D. R = 3 – Central / exemplary
+
+Definition:
+- The passage is highly central or exemplary for the query.
+- It would be among the first texts you show a student to explain the topic.
+
+Criteria:
+- Offers a clear definition, a canonical argument, or a paradigmatic case.
+- Densely and explicitly addresses the core of the query, not just an aspect of it.
+- A specialist would likely recognize it as a key or classic formulation.
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A famous sermon delivered during a major political crisis that systematically defines liberty, tyranny, and obedience, and is widely cited in scholarship.  
+  → R=3 (signature text).
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A foundational pamphlet explaining a major bubble, widely treated as a classic statement of how credit, speculation, and trust interact.  
+  → R=3.
+
+4. A‑Score: Abductive Potential (0–2)
+
+A measures how much the passage can change or extend a scholar’s thinking about the query.
+
+Abduction here follows C. S. Peirce: discovering a passage that suggests a new, plausible way of understanding a phenomenon—one that could underpin new hypotheses, questions, or frameworks.
+
+NB: Always determine R first. If R=0 → A must be 0.
+
+A. A = 0 – No abductive value
+
+Definition:
+- Even if relevant, the passage does not extend or reshape the scholar’s understanding.
+- It confirms what a knowledgeable reader would already expect, or is too thin to matter.
+
+Criteria:
+- Restates familiar positions or examples.  
+- Adds detail without shifting perspective.  
+- Echoes the query’s framing without challenging it.
+
+Examples:
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A familiar moralizing paragraph condemning “gambling in stocks” and “lust for gold,” in line with many known texts.  
+  → R=2, A=0 (relevant but conceptually unsurprising).
+
+- Query: “Domestic economy, women’s work, and household authority.”  
+  Passage: A conduct book passage urging wives to be obedient and manage servants modestly, with no new angle.  
+  → R=2, A=0 (standard discourse).
+
+B. A = 1 – Incremental extension
+
+Definition:
+- The passage is semantically related to the query and extends or complicates the current framing.
+- It suggests a new angle, useful parallel, or nuance, but does not radically reframe the topic.
+
+Criteria:
+- Raises a question the annotator had not explicitly considered, but which fits comfortably into existing understandings.  
+- Introduces a secondary dimension (e.g., genre, institutional setting, social context) that enriches but does not overturn the framing.  
+- Could inspire a sub‑question or a modest adjustment of the research design.
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A sermon that links “liberty” not only to political rights but also to economic independence (e.g., property ownership, freedom from debt), suggesting that preachers folded economic status into their account of liberty.  
+  → R=2 or 3, A=1.  
+  Possible annotator note:  
+  > “Suggests a question about how economic independence, not just legal status, figured into preachers’ accounts of liberty.”
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A medical writer compares financial panics to epidemics, using disease metaphors in a sustained way.  
+  → R=2, A=1.  
+  Note:  
+  > “Invites a hypothesis about how medical/epidemic metaphors shaped understandings of financial contagion.”
+
+- Query: “Domestic economy, women’s work, and household authority.”  
+  Passage: A legal text that connects household authority to inheritance law and property settlements.  
+  → R=2, A=1.  
+  Note:  
+  > “Suggests examining how legal structures of inheritance underpin domestic authority, not just moral discourse.”
+
+
+
+C. A = 2 – Reorienting / hypothesis‑generating
+
+Definition:
+- The passage is both relevant and genuinely surprising in a productive way.
+- It reframes the issue, suggests a new explanatory framework, or reveals an unexpected connection or contradiction that could change how a scholar approaches the inquiry.
+
+Criteria:
+- A knowledgeable specialist would not have confidently anticipated this use or configuration of the themes from the query.  
+- The passage invites:
+  - A new line of inquiry (e.g., a whole new corpus or dimension to investigate), or  
+  - A serious revision of a working hypothesis.  
+- The abductive move is plausible and grounded, not mere eccentricity.
+
+Examples:
+- Query: “Eighteenth‑century conceptions of political liberty in sermons.”  
+  Passage: A sermon that treats “liberty” primarily as a capacity to obey divine law, arguing that true liberty is maximal dependence on God and explicitly rejecting standard civic language of rights and autonomy.  
+  → R=2 or 3, A=2.  
+  Possible note:  
+  > “Reorients liberty away from political independence to a paradoxical model of freedom as dependence; suggests a hypothesis that some preachers systematically inverted ‘liberty’ in this way.”
+
+- Query: “Credit, paper money, and financial crisis.”  
+  Passage: A domestic conduct book for women that outlines household credit practices (trust networks, borrowing, informal IOUs) and explicitly connects these to broader national credit and public faith.  
+  → R=2, A=2.  
+  Note:  
+  > “Suggests a conceptual shift linking household credit and national credit; raises the hypothesis that domestic manuals are key sources for understanding the social foundations of financial trust.”
+
+- Query: “Domestic economy, women’s work, and household authority.”  
+  Passage: A technical agricultural treatise that, in an aside, equates the household with the state, describing the wife’s role in terms usually reserved for magistrates or governors.  
+  → R=2, A=2.  
+  Note:  
+  > “Proposes a striking analogy between domestic governance and political sovereignty; could support a new hypothesis about how agrarian texts encoded political theory in household terms.”
+
+5. Edge cases and tie‑breaking guidelines
+
+- Off‑topic but interesting passages:
+  - R=0, A=0, even if the passage is fascinating in the abstract. Abductive value is always relative to the specific query.
+
+- Passages that are novel but irrelevant:
+  - If a passage is surprising but not conceptually connected to the query (R=0), A must be 0. Surprise alone is not enough.
+
+- Very rich passages: 
+  - A passage can be R=3, A=0 (canonical but confirming),  
+  - Or R=2, A=2 (not the single canonical text, but opening a new line of thought).
+
+- Length and density:
+  - Do not penalize short passages if they clearly contain a conceptual move.  
+  - Conversely, a long but rambling passage that never quite touches the core may have R=1 and A=0.
+
+6. Annotator comments (required when A>0)
+
+Whenever you assign A=1 or A=2, you must add a brief free‑text comment:
+
+> “What new question, hypothesis, or conceptual shift does this passage suggest for this query?”
+
+Aim for 1–3 sentences. For example:
+
+- “This passage suggests that religious liberty rhetoric was routinely linked to debtor relief, not just freedom of worship.”  
+- “This raises the hypothesis that household management manuals were an important site for theorizing national credit.”  
+- “The analogy between female domestic authority and military command suggests a new angle on gendered sovereignty.”
+
+These comments serve two purposes:
+
+1. They help ensure that A‑Scores are grounded in explicit reasoning, not gut feeling;  
+2. They provide material for later analysis of how abductive moves cluster across topics and annotators.
