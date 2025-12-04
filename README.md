@@ -56,8 +56,8 @@ This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooli
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sosadetz/moi-benchmark-supplement.git
-   cd moi-benchmark-supplement
+   git clone https://github.com/sosadetz/measure-of-insight-benchmark-supplement.git
+   cd measure-of-insight-benchmark-supplement
 
 2. Open the example notebook:
 
