@@ -1,4 +1,4 @@
-MoI Annotation Rubric: R‑Score (Relevance) and A‑Score (Abductive Potential)
+Measure of Insight Annotation Rubric: R‑Score (Relevance) and A‑Score (Abductive Potential)
 
 1. Overview
 

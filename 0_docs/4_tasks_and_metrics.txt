@@ -52,6 +52,4 @@ AGS
 
 Topic‑based diversity
 
-Revision – describe Static vs. exploratory vs. identity‑constrained tasks
-
-Revision – How, in principle, these apply to RAG outputs (citation‑grounded evaluation). Add a short subsection “Use with future RAG systems” explaining how the same qrels let you evaluate citation‑grounded answers.
+Author-based diversity
