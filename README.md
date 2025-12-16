@@ -33,7 +33,7 @@ This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooli
   - `fuzzy_eccotcp_matching.ipynb` – matches eccco-tcp and full ecco volumes.
   - `ht_search_in_book_simulation.ipynb` – approximates HathiTrust's search-in-book feature.
   - `extract_psgs_from_fullecco_cluster_csv.ipynb` – creates a directory of files from the exploratory search platform for pooling and deduplication.
-  - `reate_dirs_of_top_tcp_results.ipynb` – creates a directory of files from eccotcp platforms (vector and htsolr) for pooling and deduplication.
+  - `create_dirs_of_top_tcp_results.ipynb` – creates a directory of files from eccotcp platforms (vector and htsolr) for pooling and deduplication.
   - `pooling_and_deduplication.ipynb` – prepares top results for evaluation.
 
 - `2_data`
