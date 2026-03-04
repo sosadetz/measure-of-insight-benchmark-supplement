@@ -1,8 +1,14 @@
 # The Measure of Insight Benchmark - Supplement
 
-This repository provides supplementary technical materials for **“The Measure of Insight: A Benchmark for Evaluating AI Retrieval in Digital Archives”**.
+This repository provides supplementary technical materials for **“The Measure of Insight: A Benchmark for Evaluating AI Retrieval in Digital Archives”**. The benchmark is an attempt to develop a means of evaluating scholarly retrieval platforms. It is predicated on an important scholarly distinction, the difference between passages that are merely on topic (i.e. those that are relevant) and passages that actually move a project forward by complicating a question, reframing a concept, or opening a plausible line of inquiry.
 
-The MoI Benchmark is designed to evaluate full-text retrieval and RAG-based systems in a humanities context along three dimensions:
+The public-domain **ECCO-TCP corpus** (2,473 transcribed eighteenth-century volumes) serves as the basis for this benchmark.
+
+Note that this repo is merely illustrative, and not all variables are consistently defined, which may cause these notebooks to break for the time being. This is not the final benchmark release, and so some materials are likely to change from time to time without notice.
+
+### What the benchmark measures
+
+The benchmark is designed to evaluate full-text retrieval and RAG-based systems in a humanities context along three dimensions:
 
 - **R-Score (Relevance):** graded semantic relevance of passages to scholarly queries.
 - **A-Score (Abductive Potential):** the capacity of passages to generate new questions, challenge assumptions, and support hypothesis formation, inspired by C. S. Peirce's theory of abductive inference.
@@ -18,7 +24,7 @@ This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooli
 
 ---
 
-## Repository Contents
+## Repository contents
 
 - `0_docs`
   - `moi_overview.md` – Conceptual overview of the benchmark and its evaluation goals.
@@ -51,7 +57,7 @@ This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooli
 
 ---
 
-## Getting Started
+## Getting started
 
 1. Clone the repository:
 
@@ -63,4 +69,4 @@ This evaluation will treat the public-domain ECCO-TCP corpus as a testbed, pooli
 
    `jupyter notebook 1_code/example_notebook.ipynb`
 
-3. Note that this repo is merely illustrative, and not all variables are consistently defined, which may cause these notebooks to break for the time being.
+3. Expect notebooks to error out at certain points. Some are research artifacts and may require minor variable/path changes.
